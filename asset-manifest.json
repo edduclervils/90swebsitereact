@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/90swebsitereact/static/css/main.60a8ddf0.css",
+    "main.js": "/90swebsitereact/static/js/main.b0096ea3.js",
+    "index.html": "/90swebsitereact/index.html",
+    "main.60a8ddf0.css.map": "/90swebsitereact/static/css/main.60a8ddf0.css.map",
+    "main.b0096ea3.js.map": "/90swebsitereact/static/js/main.b0096ea3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60a8ddf0.css",
+    "static/js/main.b0096ea3.js"
+  ]
+}
