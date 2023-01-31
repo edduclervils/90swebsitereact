@@ -1,0 +1,63 @@
+body {
+    background-color: blanchedalmond;
+    background-image: url(https://i.imgur.com/1RqJeeI.png);
+    background-size: 500px;
+    background-repeat: repeat;
+}
+h1, p {
+    text-align: center;
+}
+
+.centerIMG {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    width: 500px;
+    height: 500px;
+}
+
+.side-img::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.img-container {
+    float: left;
+    width: 33%;
+    padding: 2px;
+}
+
+figcaption {
+    text-shadow: 2px -2px 3px whitesmoke , -2px 2px 3px whitesmoke ;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.3em;
+    font-weight: bold;
+    color: green;
+}
+
+.headTitle {
+    text-shadow: 2px -2px 5px whitesmoke , -2px 2px 5px whitesmoke ;
+    font-family: 'Geneva', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2em;
+    font-weight: bolder;
+    color: rgb(2, 51, 2);
+}
+
+
+.regwords {
+    text-shadow: 2px -2px 2px whitesmoke , -2px 2px 2px whitesmoke ;
+    font-family: 'Verdana', Tahoma, Geneva, Geneva, sans-serif;
+    font-size: larger;
+    font-weight: bolder;
+    color: #D93A96;
+}
+
+h1 {
+    text-shadow: 2px -2px 2px black, -2px 2px 2px black;
+    font-family: fantasy;
+    font-size: 60px;
+    color: #F2B518;
+}
