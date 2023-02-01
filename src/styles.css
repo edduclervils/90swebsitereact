@@ -8,7 +8,7 @@ h1, p {
     text-align: center;
 }
 
-.centerIMG {
+#centerIMG {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -17,13 +17,7 @@ h1, p {
     height: 500px;
 }
 
-.side-img::after {
-    content: "";
-    clear: both;
-    display: table;
-}
-
-.img-container {
+#img-container {
     float: left;
     width: 33%;
     padding: 2px;
