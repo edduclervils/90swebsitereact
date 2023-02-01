@@ -32,7 +32,7 @@ figcaption {
     color: green;
 }
 
-.headTitle {
+#headTitle {
     text-shadow: 2px -2px 5px whitesmoke , -2px 2px 5px whitesmoke ;
     font-family: 'Geneva', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 2em;
@@ -41,7 +41,7 @@ figcaption {
 }
 
 
-.regwords {
+#regwords {
     text-shadow: 2px -2px 2px whitesmoke , -2px 2px 2px whitesmoke ;
     font-family: 'Verdana', Tahoma, Geneva, Geneva, sans-serif;
     font-size: larger;

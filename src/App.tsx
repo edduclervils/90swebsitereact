@@ -25,8 +25,8 @@ function App() {
     <div style={{textAlign: "center"}}>
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Chia_Pet_logo.png" style={logoStyle}  alt="Header Logo" />
       <h1>The Pottery that grows!!!</h1>
-      <p style={{fontSize: 'larger', fontWeight: 'bolder'}}>Try your hand at your <strong><em>very own</em></strong> Chia Pet!!</p>
-      <p>It's easy!!!</p>
+      <p id="regwords">Try your hand at your <strong><em>very own</em></strong> Chia Pet!!</p>
+      <p id="regwords">It's easy!!!</p>
       <div id="side-img">
             <div id="img-container"><img src="https://i.imgur.com/wAhW3lW.png" style={{width: "100%"}} alt="Soak"/><figcaption>Soak</figcaption></div>
             <div id="img-container"><img src="https://i.imgur.com/zW1wRZy.png" style={{width: "100%"}} alt="Spread"/><figcaption>Spread</figcaption></div>
